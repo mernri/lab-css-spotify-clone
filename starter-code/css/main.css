@@ -6,3 +6,51 @@ Green: #00B172
 White: #FFF
 
 */
+
+/* navbar du site */
+
+.nav-content {
+    height: 70px;
+    background-color: blue;
+}
+
+.spotify-logo {
+    height: 40px;
+    float: left;
+    margin-left: 3%;
+    padding-top: 14px;
+}
+
+
+.nav-item {
+    list-style-type: none;
+    display: inline;
+    color: white;
+    float: right;
+    margin-left: 5%;
+    margin-right:10px;
+    padding-top: 12px;
+}
+
+/* Header avec photo et punchline */
+
+.header-content {
+    background-image: url("../images/landing.jpg");
+    height: 500px;
+    background-size: cover;
+    color: white;
+}
+
+div {
+    border: 3px solid red;
+}
+
+/* Pitch what's on spotify */
+
+.pitches img {
+    height: 80px;
+}
+
+.pitch {
+    length: 33%;
+}
